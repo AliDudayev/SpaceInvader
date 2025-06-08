@@ -1,0 +1,14 @@
+C:\Users\AliDS\source\repos\SpaceInvader\bin\Debug\net8.0\SpaceInvader.exe
+C:\Users\AliDS\source\repos\SpaceInvader\bin\Debug\net8.0\SpaceInvader.deps.json
+C:\Users\AliDS\source\repos\SpaceInvader\bin\Debug\net8.0\SpaceInvader.runtimeconfig.json
+C:\Users\AliDS\source\repos\SpaceInvader\bin\Debug\net8.0\SpaceInvader.dll
+C:\Users\AliDS\source\repos\SpaceInvader\bin\Debug\net8.0\SpaceInvader.pdb
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.AssemblyInfoInputs.cache
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.AssemblyInfo.cs
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.csproj.CoreCompileInputs.cache
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.dll
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\refint\SpaceInvader.dll
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.pdb
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\SpaceInvader.genruntimeconfig.cache
+C:\Users\AliDS\source\repos\SpaceInvader\obj\Debug\net8.0\ref\SpaceInvader.dll
